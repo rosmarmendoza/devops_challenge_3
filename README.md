@@ -1,4 +1,4 @@
-# devops_challenges_rox
+# Devops_challenges_rox
 
 
 In the repository contains my resolutions for challenges building in DevOps Begginer bootcamp by Rossana Suarez
